@@ -1,6 +1,6 @@
 # Мой стек:
         
-Python:        
+## Python:        
 + PyQT [Base/Signal/Slot/Qthread]
 + Requests / httpx [С решением капчи]
 + Async
@@ -11,11 +11,11 @@ Python:
 + Subprocess
 + Aiogram [Base]
 
-BAS:
+## BAS:
 + Браузер
 + HTTP Клиент
 + Решение капчи [Эмуляция/Запросы]
 + Много чего ещё
 
-Golang:
+## Golang:
 * В процессе...
