@@ -2,7 +2,7 @@
         
 Python:        
 + PyQT [Base/Signal/Slot/Qthread]
-+ Requests / httpx
++ Requests / httpx [С решением капчи]
 + Async
 + Multiprocessing, Threading
 + ThreadPoolExecutor
