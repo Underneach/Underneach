@@ -2,7 +2,7 @@
 
 ## Python:
 ### Чекеры / Парсеры / Брутеры        
-+ PyQT [Base/Signal/Slot/Qthread]
++ PyQT
 + Requests / httpx [С решением капчи]
 + Async
 + Multiprocessing, Threading
