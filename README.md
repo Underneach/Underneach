@@ -1,24 +1,31 @@
 # Мой стек:
 
 ## Python:
-### Чекеры / Парсеры / Брутеры        
-    + PyQT
-    + Requests / httpx [С решением капчи]
+### Чекеры / Парсеры / GUI        
+    + PyQT5
+    + Requests, Httpx,  Aiohttp
     + Async
-    + Multiprocessing, Threading
     + ThreadPoolExecutor
-    + Re
-    + Pyinstaller
-    + Subprocess
+    + Multiprocessing, Threading
+    + Re, Bs4
+    + Pyinstaller, Nuitka [Base]
     + Aiogram [Base]
 
 ## BAS:
-### Чекеры / Парсеры / Я че ебанутый брутер на басе писать
+### Чекеры / Парсеры / Авторегеры
     + Браузер
     + HTTP Клиент
-    + Решение капчи [Эмуляция/Запросы]
-    + Много чего ещё
+    + Работа с капчёй [Эмуляция/Запросы]
+    + Кастомные модули
   
 
 ## Goland:
-    + В процессе...
+    + Base
+
+
+
+# Опыт работы с API:
+
+    + SMS Activate
+    + Captcha Guru
+    + GitHub [Частично]
