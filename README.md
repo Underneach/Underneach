@@ -3,9 +3,9 @@
 ## Python:
 ### Чекеры / Парсеры / GUI        
     + PyQT5
-    + Requests, Httpx,  Aiohttp
+    + Requests, Httpx, Aiohttp
     + Async
-    + ThreadPoolExecutor
+    + ThreadPoolExecutor, ProcessPoolExexutor
     + Multiprocessing, Threading
     + Re, Bs4
     + Pyinstaller, Nuitka [Base]
@@ -21,10 +21,10 @@
 ## Goland:
     + Base
 
-
-# Опыт работы с API:
+# Работы с API:
     + SMS Activate
     + Captcha Guru
+    + Dolphin Anty [Local/External]
     + GitHub [Частично]
 
 
