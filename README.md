@@ -11,21 +11,39 @@
     + Pyinstaller, Nuitka [Base]
     + Aiogram [Base]
 
+
+
+
+
+
 ## BAS:
 ### Чекеры / Парсеры / Авторегеры
     + Браузер
     + HTTP Клиент
     + Работа с капчёй [Эмуляция/Запросы]
     + Кастомные модули
+
+
+
+
   
 ## Goland:
     + Base
+
+
+
+
+
 
 # Работы с API:
     + SMS Activate
     + Captcha Guru
     + Dolphin Anty [Local/External]
     + GitHub [Частично]
+
+
+
+
 
 
 # Информационная безопасность
