@@ -8,7 +8,7 @@
     + ThreadPoolExecutor, ProcessPoolExexutor
     + Multiprocessing, Threading
     + Re, Bs4
-    + Pyinstaller, Nuitka [Base]
+    + Pyinstaller, Nuitka
     + Aiogram [Base]
  
  
