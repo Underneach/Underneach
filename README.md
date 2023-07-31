@@ -1,8 +1,8 @@
 # Мой стек:
 
 ## Python:
-### Чекеры / Парсеры / GUI        
-    + PyQT (5/6)
+### Чекеры, Регеры, Парсеры, GUI        
+    + PyQT [5, 6], PySide 6
     + Requests, Httpx, Aiohttp
     + Async
     + ThreadPoolExecutor, ProcessPoolExexutor
@@ -18,7 +18,7 @@
  
  
 ## BAS:
-### Чекеры / Парсеры / Авторегеры
+### Чекеры, Регеры, Парсеры
     + Браузер
     + HTTP Клиент
     + Работа с капчёй [Эмуляция/Запросы]
