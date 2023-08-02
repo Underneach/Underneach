@@ -1,4 +1,4 @@
-![image]([https://github.com/Underneach/Underneach/assets/137613889/c1cd63b2-0121-42fb-be99-efd655029f73](https://raw.githubusercontent.com/Underneach/Underneach/main/image.png))
+![image](https://raw.githubusercontent.com/Underneach/Underneach/main/image.png)
 
 
 
