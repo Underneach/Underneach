@@ -14,6 +14,7 @@
     + Re, Bs4
     + Pyinstaller, Nuitka
     + Aiogram [Base]
+    + Imaplib, Email
  
  
  
