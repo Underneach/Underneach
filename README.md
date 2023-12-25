@@ -1,3 +1,8 @@
+## Golang:
+    + База
+    + Ants
+
+
 ## Python:
     + PyQT [5, 6], PySide 6
     + Requests, Httpx, Aiohttp
