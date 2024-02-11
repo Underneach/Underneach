@@ -1,6 +1,7 @@
 ## Golang:
-    + База
+    + PGO
     + Ants
+    + Desktop прилки 
 
 
 ## Python:
@@ -34,7 +35,6 @@
  ## Работы с API:
     + Большинство SMS сервисов
     + Большинство Captcha сервисов
-    + Dolphin Anty [Local/External]
     + GitHub [Частично]
  
  
